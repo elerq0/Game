@@ -4,7 +4,6 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Rectangle;
 
-@SuppressWarnings("serial")
 public class BuildingStructure extends Rectangle {
 	private Texture texture;
 	public int mode;
